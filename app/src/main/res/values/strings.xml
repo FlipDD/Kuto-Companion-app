@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Kuto\'s Training Regimen</string>
+    <string-array name="tips_array">
+        <item>If you get killed you die</item>
+        <item>When you take damage your health depletes</item>
+        <item>Attack enemies to kill them</item>
+        <item>If low on health use a potion</item>
+        <item>Dont step on mines</item>
+        <item>Avoid Ranged-Enemy Void Balls</item>
+        <item>Obvious Tip #756486458273642378</item>
+        <item>If slow waves are giving you trouble dash closer and finish them quickly</item>
+        <item>Running is not the answer, eliminate targets fast to avoid big crowds</item>
+        <item>Ranged enemies will only attack from a safe distance, get close and slice them</item>
+        <item></item>
+        <item></item>
+        <item> </item>
+    </string-array>
+
+    <integer-array name="enemy">
+        <item>@drawable/enemy0</item>
+        <item>@drawable/enemy1</item>
+        <item>@drawable/enemy2</item>
+        <item>@drawable/enemy3</item>
+        <item>@drawable/enemy4</item>
+    </integer-array>
+    <string name="title_activity_overview">Overview</string>
+    <string name="title_activity_game_screen">GameScreen</string>
+    <string name="title_activity_training_regimen">TrainingRegimen</string>
+    <string name="title_walk">Walking</string>
+    <string name="title_tips">Tips</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
